@@ -1,0 +1,3 @@
+[submodule "AltiumLibraries"]
+	path = AltiumLibraries
+	url = https://github.com/UCSolarCarTeam/AltiumLibraries.git
