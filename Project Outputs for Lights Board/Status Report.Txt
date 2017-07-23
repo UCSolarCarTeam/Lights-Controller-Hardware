@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Lights Board.PrjPcb]
+   Generated File[Lights Board.GTL]
+   Generated File[Lights Board.GBL]
+   Generated File[Lights Board.GTO]
+   Generated File[Lights Board.GTS]
+   Generated File[Lights Board.GBS]
+   Generated File[Lights Board.GBO]
+   Generated File[Lights Board.GKO]
+   Generated File[Lights Board.RUL]
+   Generated File[Lights Board.EXTREP]
+   Generated File[Lights Board.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 6:27:19 PM On 2017-07-22
